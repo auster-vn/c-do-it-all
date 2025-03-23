@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  hex_server:
+    build: .
+    ports:
+      - "8080:8080"
+
