@@ -1,1 +1,3 @@
-# c-do-it-all
+```
+docker-compose up -d
+```
